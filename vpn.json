@@ -1,6 +1,6 @@
 {
   "ovpn_file":[
-    {"id":0,"file":"
+    {"id":0,"file":"0"
 
 dev tun
 proto tcp
@@ -114,8 +114,8 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 
 
-    </tls-auth>"},
-    {"id":7,"file":" 
+    </tls-auth>},
+    {"id":1,"file":0" 
      
 
 
@@ -254,7 +254,7 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
      
      
      
-     "},
+     },
    
 
   
