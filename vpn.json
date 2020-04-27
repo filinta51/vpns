@@ -62,7 +62,7 @@ proto tcp
 # When you use UDP protocol, the port number must same as the configuration
 # setting of "OpenVPN Server Compatible Function" on the VPN Server.
 
-remote public-vpn-222.opengw.net 443
+remote 219.100.37.219 443
 
 
 ###############################################################################
@@ -216,7 +216,6 @@ M7muBbF0XN7VO80iJPv+PmIZdEIAkpwKfi201YB+BafCIuGxIF50Vg==
 </key>
 
 
-     
     </tls-auth>"},
     {"id":1,"file":""}]
 }
