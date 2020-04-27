@@ -1,4 +1,7 @@
-client
+{
+  "ovpn_file":[
+    {"id":0,"file":"
+     client
 dev tun
 proto tcp
 remote 54.38.78.90 443
@@ -46,5 +49,11 @@ hnCP18/A5ITaOq2M8Z+VTA09AZQ1WmfbsCeAQkI5KsAKlzTTGU7CAz0NhzwpxM2L
 7PxAfw8m
 -----END CERTIFICATE-----
 </ca>
+     
+    </tls-auth>"},
+    {"id":1,"file":""}]
+}
+
+
 
 
